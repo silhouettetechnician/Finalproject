@@ -1,0 +1,40 @@
+body{
+  font-family: Futura;
+  box-sizing: border-box;
+}
+
+#root > main > div > h2{
+  display: flex;
+
+}
+
+.is-rounded{
+  float: right;
+}
+#round{
+  width: 100px;
+  float: right;
+}
+
+.title-container{
+  float: right;
+}
+
+.title-container h2{
+  float: right;
+  text-align: right;
+}
+
+.title{
+
+
+}
+
+.title h2{
+    font-family: Proxima;
+}
+
+@font-face{
+  font-family: "Proxima";
+  src: url('./../components/assets/fonts/ProximaNova-Regular.otf');
+}

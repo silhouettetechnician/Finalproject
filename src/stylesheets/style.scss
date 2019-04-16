@@ -1,0 +1,16 @@
+@import 'components/layout/header';
+@import 'components/postIndex';
+@import 'components/usersShow';
+@import 'components/common/nav';
+@import 'components/common/home';
+@import 'components/postForm';
+@import 'components/postShow';
+@import 'components/global';
+@import 'components/comments';
+@import 'components/designersShow';
+@import 'components/login';
+@import 'components/common/footer';
+@import 'components/common/carousel';
+#triggerbutton {
+  display:none;
+}

@@ -34,7 +34,7 @@
     "filestack-js": "^2.0.5",
     "materialize": "^1.0.0",
     "materialize-css": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-materialize": "^3.0.4",
